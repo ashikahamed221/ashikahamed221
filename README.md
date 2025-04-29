@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me J.ASHIK AHAMED
 
-<img align="right" width="370" height="290" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-content-animated-A856GXrXQ9SM17oe.gif">
-">
+<img align="right" width="370" height="290" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
