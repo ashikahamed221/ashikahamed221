@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me J.ASHIK AHAMED
 
-<img align="right" width="370" height="290" src="C:\Users\ashik\Downloads\full-stack-development.gif">
+<img align="right" width="370" height="290" src="full-stack-development.gif">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
