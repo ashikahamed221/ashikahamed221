@@ -4,6 +4,7 @@
 
 ### 🌐 Frontend Developer | Passionate about crafting interactive and user-friendly web experiences
 
+---
 
 ## 🧑‍💻 About Me
 
