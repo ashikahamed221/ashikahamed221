@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me J.ASHIK AHAMED
 
-<img align="center" width="370" height="290" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="left" width="370" height="290" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 ### 🌐 Frontend Developer | Passionate about crafting interactive and user-friendly web experiences
 
