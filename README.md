@@ -59,6 +59,9 @@ Here are a few of my highlighted repositories:
 
 ---
 
+## GitHub Readme Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashikahamed221&bg_color=ffffff&color=000000&line=000000&point=c44ec6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 📫 Let's Connect!
 
 I'm always open to connecting with fellow developers. Feel free to explore my projects, open issues, or start a discussion.
