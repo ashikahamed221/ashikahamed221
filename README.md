@@ -53,9 +53,9 @@ Here are a few of my highlighted repositories:
 
 ---
 
-## 📊 Leetcode
+## 📊 Leetcode Stats
 
-(![LeetCode Stats](https://leetcard.jacoblin.cool/0gZp6VH6vk?theme=light&font=Poppins&ext=contest))
+![LeetCode Stats](https://leetcard.jacoblin.cool/0gZp6VH6vk?theme=light&font=Poppins&ext=contest)
 
 ---
 
