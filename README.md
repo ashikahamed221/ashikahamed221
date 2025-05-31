@@ -53,13 +53,9 @@ Here are a few of my highlighted repositories:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Leetcode
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikahamed&show_icons=true&theme=radical" alt="Ashik Ahamed's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikahamed&theme=radical" alt="GitHub Streak" />
-</p>
+(![LeetCode Stats](https://leetcard.jacoblin.cool/0gZp6VH6vk?theme=light&font=Poppins&ext=contest))
 
 ---
 
