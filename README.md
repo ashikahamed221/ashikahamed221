@@ -4,9 +4,8 @@
 
 ### 🌐 Frontend Developer | Passionate about crafting interactive and user-friendly web experiences
 
----
 
-🧑‍💻 ## About Me
+## 🧑‍💻 About Me
 
 I'm **Ashik Ahamed**, a frontend developer with a keen eye for design and functionality. I specialize in building responsive and accessible web interfaces using modern technologies. My focus is on creating seamless user experiences with clean, efficient, and scalable code.
 
