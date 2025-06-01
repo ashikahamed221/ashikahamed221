@@ -45,11 +45,10 @@ Currently, I’m exploring more advanced frontend tools and continuously improvi
 
 Here are a few of my highlighted repositories:
 
-- [🔑Hashing Generator](https://github.com/your-username/car-rental-website) – Firebase-based car booking system.
-- [🎨 Portfolio Website](https://github.com/your-username/portfolio-website) – A sleek and modern personal portfolio in React.
-- [📝 To-Do App](https://github.com/your-username/todo-react) – Simple productivity app built with React and Firebase.
+- [🔑Hashing Generator](https://github.com/ashikahamed221/Hashing) – Hashing generator using React.Js.
+- [🎨 Portfolio Website](https://github.com/ashikahamed221/Responsive-portfolio) – A sleek and modern personal portfolio in Html,css,js.
+- [⛅ Weather-App](https://github.com/ashikahamed221/React-weather-app) – Simple productivity app built with React and open Weather Api.
 
-> Replace the links with your actual repositories!
 
 ---
 
