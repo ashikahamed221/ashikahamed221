@@ -27,17 +27,21 @@ Currently, I’m exploring more advanced frontend tools and continuously improvi
 - React.js
 
 ### 🖥️ Programming Languages:
-- Python
+- JavaScript
 - Java
-- SQL
+- MongoDB
 
 ### ⚙️ Backend & Frameworks:
 - Express.js
 - Firebase
+- Node.js
 
 ### 🧰 Tools & Platforms:
 - VS Code
 - Git & GitHub
+- Postman
+- FireBase Hosting
+- Zoho Catalyst
 
 ---
 
