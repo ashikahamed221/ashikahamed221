@@ -29,12 +29,12 @@ Currently, I’m exploring more advanced frontend tools and continuously improvi
 ### 🖥️ Programming Languages:
 - JavaScript
 - Java
-- MongoDB
 
 ### ⚙️ Backend & Frameworks:
 - Express.js
 - Firebase
 - Node.js
+- Mongodb
 
 ### 🧰 Tools & Platforms:
 - VS Code
