@@ -1,4 +1,4 @@
-## Hi there 👋 It's me J.ASHIK AHAMED
+## Hi there 👋 It's me ASHIK AHAMED J
 
 <p align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" />
@@ -41,7 +41,7 @@ Currently, I’m exploring more advanced frontend tools and continuously improvi
 - Git & GitHub
 - Postman
 - FireBase Hosting
-- Zoho Catalyst
+- Netlify & vercel
 
 ---
 
